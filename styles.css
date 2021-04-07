@@ -1,28 +1,8 @@
-.navbar {
-    padding: 0;
+
+.btn-get-started {
+    background: #3b4ef8;
 }
 
-a {
-    text-decoration: none;
-    color: #2D405F;
-}
-
-li {
-    text-decoration: none;
-}
-#header {
-    background: #f6f7ff;
-    border-bottom: 2px solid #eceefe;
-    transition: all 0.5s;
-    z-index: 997;
-    padding: 15px 0;
-}
-
-#hero h1 {
-    margin: 0;
-    font-size: 48px;
-    font-weight: 700;
-    line-height: 56px;
-    width: 60%;
-    color: #2d405f;
+.footer {
+    background-color: steelblue;
 }
