@@ -13,3 +13,65 @@
     transition: 0.3s;
     text-decoration: none;
 }
+
+.about .icon-boxes .icon-box i {
+    font-size: 40px;
+    color: #b6bdfc;
+    margin-bottom: 10px;
+
+}
+
+.clients {
+    background: #f6f7ff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.clients img {
+    max-width: 45%;
+
+}
+
+.section-title h2::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #aabbd7;
+    bottom: 0;
+    left: calc(50% - 25px);
+}
+
+.steps .row .content-item span {
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    color: #3b4ef8;
+}
+
+.steps .content-item h4 {
+    font-size: 28px;
+    font-weight: 400;
+    padding: 0;
+    margin: 20px 0;
+    color: #2d405f;
+}
+
+.steps .content-item p {
+    color: #aaaaaa;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.steps .content-item {
+    padding: 40px;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    margin: -1px;
+}
+
+.noborderb {
+    border-bottom: none;
+}
